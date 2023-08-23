@@ -74,6 +74,7 @@ float: right;
 .texto-previsao{
   color: #fff;
   margin-left: 20px; /*para distanciar da nuvem*/
+  text-transform: capitalize;
 }
 
 .umidade{
